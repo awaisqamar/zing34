@@ -8,7 +8,7 @@ public class clonee {
 		// TODO Auto-generated method stub
 		System.out.println("zing");
 		System.out.println("hvgfytdytd");
-		
+		System.out.println("hvgfytdytdhvgddyt");
 
 	}
 
